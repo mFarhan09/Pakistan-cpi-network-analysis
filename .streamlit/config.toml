@@ -1,0 +1,45 @@
+[theme]
+# Primary color (used for interactive elements)
+primaryColor = "#FF4B4B"
+
+# Background color
+backgroundColor = "#FFFFFF"
+
+# Secondary background color (used for sidebar and other elements)
+secondaryBackgroundColor = "#F0F2F6"
+
+# Text color
+textColor = "#262730"
+
+# Font family
+font = "sans serif"
+
+[server]
+# Port number for the Streamlit server
+port = 8501
+
+# Enable CORS (set to false for security)
+enableCORS = false
+
+# Enable XSRF protection
+enableXsrfProtection = true
+
+# Automatically reload when files change
+runOnSave = true
+
+# File watcher type
+fileWatcherType = "auto"
+
+[browser]
+# Disable usage stats gathering
+gatherUsageStats = false
+
+# Server address
+serverAddress = "localhost"
+
+[runner]
+# Set to true to fix random seeds for reproducibility
+fastReruns = true
+
+# Automatic rerun on script change
+magicEnabled = true
