@@ -1,0 +1,27 @@
+Month_Year,Status,Timestamp,Filepath,Error,Month,Data_Type,Filename,URL,File_Size_MB
+SPI-Monthly-Prices.xlsx,Success,2025-11-23 16:49:16,C:\Users\farhan\Desktop\Pakistan-cpi-network-analysis\data\pbs_price\SPI-Monthly-Prices.xlsx,,,,,,
+Urbn-Construction.xlsx,Success,2025-11-23 16:49:19,C:\Users\farhan\Desktop\Pakistan-cpi-network-analysis\data\pbs_price\Urbn-Construction.xlsx,,,,,,
+Rural-Construction-1.xlsx,Success,2025-11-23 16:49:21,C:\Users\farhan\Desktop\Pakistan-cpi-network-analysis\data\pbs_price\Rural-Construction-1.xlsx,,,,,,
+SPI-Monthly-Prices.xls,Success,2025-11-23 16:49:29,C:\Users\farhan\Desktop\Pakistan-cpi-network-analysis\data\pbs_price\SPI-Monthly-Prices.xls,,,,,,
+Urbn-Construction.xls,Success,2025-11-23 16:49:33,C:\Users\farhan\Desktop\Pakistan-cpi-network-analysis\data\pbs_price\Urbn-Construction.xls,,,,,,
+Rural-Construction-1.xls,Success,2025-11-23 16:49:38,C:\Users\farhan\Desktop\Pakistan-cpi-network-analysis\data\pbs_price\Rural-Construction-1.xls,,,,,,
+2025,Success,2025-11-23 16:49:52,C:\Users\farhan\Desktop\Pakistan-cpi-network-analysis\data\pbs_price\Rural_Construction_Items_Prices_September_2025-1.xls,,,,,,
+SPI-Monthly-Prices-Annex_2.xls,Success,2025-11-23 16:49:56,C:\Users\farhan\Desktop\Pakistan-cpi-network-analysis\data\pbs_price\SPI-Monthly-Prices-Annex_2.xls,,,,,,
+Urban-Construction.xls,Success,2025-11-23 16:50:01,C:\Users\farhan\Desktop\Pakistan-cpi-network-analysis\data\pbs_price\Urban-Construction.xls,,,,,,
+Rural-Construction.xls,Success,2025-11-23 16:50:06,C:\Users\farhan\Desktop\Pakistan-cpi-network-analysis\data\pbs_price\Rural-Construction.xls,,,,,,
+13.-SPI-Monthly-Prices-Annex.xls,Success,2025-11-23 16:50:11,C:\Users\farhan\Desktop\Pakistan-cpi-network-analysis\data\pbs_price\13.-SPI-Monthly-Prices-Annex.xls,,,,,,
+,Converted,2025-11-24 11:29:06,,,October 2025,,October_2025.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Monthly-Prices.xlsx,0.02
+,Converted,2025-11-24 11:29:07,,,September 2025,,September_2025.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI_Monthly_Prices_Annex_Sep_2025-1.xlsx,0.02
+,Converted,2025-11-24 11:29:09,,,Aug 2025,,Aug_2025.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Monthly-Prices-Annex_2.xlsx,0.02
+,Converted,2025-11-24 11:29:10,,,July 2025,,July_2025.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/13.-SPI-Monthly-Prices-Annex.xlsx,0.02
+,Downloaded,2025-11-24 11:29:12,,,June 2025,,June_2025.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/4.-Annex-03-07-2025.pdf,0.41
+,Downloaded,2025-11-24 11:29:14,,,May 2025,,May_2025.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Monthly-Prices-Annex_2.pdf,0.29
+,Downloaded,2025-11-24 11:29:17,,,April 2025,,April_2025.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Monthly-Prices-Annex_1.pdf,0.29
+,Downloaded,2025-11-24 11:29:19,,,March 2025,,March_2025.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI_Monthly_Prices_Annex_March_2025.pdf,0.29
+,Downloaded,2025-11-24 11:29:21,,,February 2025,,February_2025.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI_Monthly_Prices_Annex_Feb_2025.pdf,0.32
+,Downloaded,2025-11-24 11:29:23,,,January 2025,,January_2025.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI-Monthly-Prices-Annex.pdf,0.29
+,Downloaded,2025-11-24 11:29:24,,,December 2024,,December_2024.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI_Monthly_Prices_Annex_December_2024.pdf,0.29
+,Downloaded,2025-11-24 11:29:26,,,November 2024,,November_2024.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI_Monthly_Prices_Annex_November_2024.pdf,0.29
+,Downloaded,2025-11-24 11:29:28,,,October 2024,,October_2024.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/SPI_Monthly_Prices_Annex_October_2024.pdf,0.29
+,Downloaded,2025-11-24 11:29:29,,,September 2024,,September_2024.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/CPI_Annex_Sep_2024.pdf,0.29
+,Downloaded,2025-11-24 11:29:31,,,August 2024,,August_2024.pdf,https://www.pbs.gov.pk/wp-content/uploads/2020/07/CPI_Annex_August_2024.pdf,0.29
